@@ -7,14 +7,8 @@ Instructions that we used:
 -11
 -15
 -28
--24
-
-
-Stakeholders
--İsmail ÖKSÜZ
--Barış HAZAR
--Ulaş Deniz IŞIK
--Emre SAĞIROĞLU
+-24                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Stakeholders                                                                                                                                                             
+-İsmail ÖKSÜZ                                                                                                                                                            -Barış HAZAR                                                                                                                                                             -Ulaş Deniz IŞIK                                                                                                                                                         -Emre SAĞIROĞLU
 
 
 
