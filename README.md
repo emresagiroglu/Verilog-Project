@@ -1,7 +1,7 @@
 # Verilog-Project
 CSE 3038 Term Project 2
 
-Instructions that used:
+Instructions that we used:
 -5
 -7
 -11
