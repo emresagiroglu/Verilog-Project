@@ -125,7 +125,7 @@ mult2_to_1_32 multbn(out11,out4,{pc[31:28],instruct[25:0],2'b00},n);
 
 // load pc
 always @(negedge clk)
-pc=pcout;
+pc=out4;
 
 // alu, adder and control logic connections
 
