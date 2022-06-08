@@ -19,6 +19,7 @@ output5,
 output7,
 output15;
 
+	
 wire [5:0] inst31_26;	//31-26 bits of instruction
 wire [4:0] 
 inst25_21,	//25-21 bits of instruction
